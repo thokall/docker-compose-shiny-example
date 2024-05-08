@@ -34,7 +34,7 @@ services:
       - covidapp
     environment:
       - HOST=":80"
-      - EMAIL="your.name@yourdomain.com"
+      - EMAIL="cgi@nrm.se"
 volumes:
   caddy_data:
   caddy_config:
