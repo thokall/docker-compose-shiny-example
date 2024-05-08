@@ -3,4 +3,4 @@ version: "3.7"
 services:
   caddy:
     environment:
-      - HOST="example.com"
+      - HOST="nrm-shiny-naturvard.nrm.se"
